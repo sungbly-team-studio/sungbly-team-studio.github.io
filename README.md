@@ -1,2 +1,1 @@
-# sungbly1tsstt.github.io
-s1t's home
+# sungbly_team_studio
