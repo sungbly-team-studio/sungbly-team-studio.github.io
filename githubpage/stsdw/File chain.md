@@ -1,4 +1,4 @@
-chinese docs:sungbly-team-studio.github.io/githubpage/stsdw/File chain_cn.md
+中文文档请看:sungbly-team-studio.github.io/githubpage/stsdw/File chain_cn.md
 to look file number:https://sungbly-team-studio.github.io/githubpage/stsdw/supportlist.md
 example：https://sungbly-drive-team.github.io/file/1.html
 file number is 1.
